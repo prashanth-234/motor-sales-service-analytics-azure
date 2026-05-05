@@ -1,25 +1,29 @@
-# Motor Sales & Service Analytics (Azure Data Engineering Project)
+#  Motor Sales & Service Analytics (Azure Data Engineering Project)
 
-## Overview
-This project demonstrates an end-to-end data engineering pipeline for a motor company (Hyundai-like scenario).
+##  Overview
+This project demonstrates an **end-to-end Azure Data Engineering pipeline** for a motor company (Hyundai-like scenario), focusing on **sales performance, service operations, and customer analytics**.
 
-## Technologies
-- Azure Data Factory
-- Azure Data Lake
+The solution integrates multiple data sources and processes them using a **Medallion Architecture (Bronze → Silver → Gold)** to generate business insights.
+
+---
+
+##  Technologies Used
+- Azure Data Factory (ADF)
+- Azure Data Lake Storage Gen2 (ADLS)
 - Azure Databricks (PySpark)
+- Delta Lake
 - SQL Server
 - Power BI
 
-## Data Sources
-- SQL Server (Customer, Vehicle, Dealership)
-- Blob Storage (Sales, Service, Spare Parts)
-- REST API (Customer Loyalty)
+---
 
-## Architecture
-Source → ADF → ADLS → Databricks → Delta → Power BI
+##  Data Sources
+| Source System | Data |
+|--------------|------|
+| SQL Server | Customer, Vehicle, Dealership |
+| Blob Storage | Sales, Service, Spare Parts |
+| REST API | Customer Loyalty Data |
 
-## Key Insights
-- Sales revenue by city
-- Service revenue
-- Customer analytics
-- Vehicle performance
+---
+
+## 🏗️ Architecture
