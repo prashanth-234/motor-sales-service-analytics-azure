@@ -1,0 +1,5006 @@
+{
+  "status": "success",
+  "record_count": 1000,
+  "data": [
+    {
+      "customer_id": "C0001",
+      "loyalty_score": 34,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0002",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0003",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0004",
+      "loyalty_score": 21,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0005",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0006",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0007",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0008",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0009",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0010",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0011",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0012",
+      "loyalty_score": 77,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0013",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0014",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0015",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0016",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0017",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0018",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0019",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0020",
+      "loyalty_score": 77,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0021",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0022",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0023",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0024",
+      "loyalty_score": 54,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0025",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0026",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0027",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0028",
+      "loyalty_score": 54,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0029",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0030",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0031",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0032",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0033",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0034",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0035",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0036",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0037",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0038",
+      "loyalty_score": 55,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0039",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0040",
+      "loyalty_score": 91,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0041",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0042",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0043",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0044",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0045",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0046",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0047",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0048",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0049",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0050",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0051",
+      "loyalty_score": 54,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0052",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0053",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0054",
+      "loyalty_score": 34,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0055",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0056",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0057",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0058",
+      "loyalty_score": 26,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0059",
+      "loyalty_score": 58,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0060",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0061",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0062",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0063",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0064",
+      "loyalty_score": 83,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0065",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0066",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0067",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0068",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0069",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0070",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0071",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0072",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0073",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0074",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0075",
+      "loyalty_score": 58,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0076",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0077",
+      "loyalty_score": 70,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0078",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0079",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0080",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0081",
+      "loyalty_score": 55,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0082",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0083",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0084",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0085",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0086",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0087",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0088",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0089",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0090",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0091",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0092",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0093",
+      "loyalty_score": 33,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0094",
+      "loyalty_score": 83,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0095",
+      "loyalty_score": 77,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0096",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0097",
+      "loyalty_score": 58,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0098",
+      "loyalty_score": 86,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0099",
+      "loyalty_score": 91,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0100",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0101",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0102",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0103",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0104",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0105",
+      "loyalty_score": 26,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0106",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0107",
+      "loyalty_score": 26,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0108",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0109",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0110",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0111",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0112",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0113",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0114",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0115",
+      "loyalty_score": 21,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0116",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0117",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0118",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0119",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0120",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0121",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0122",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0123",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0124",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0125",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0126",
+      "loyalty_score": 34,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0127",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0128",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0129",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0130",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0131",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0132",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0133",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0134",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0135",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0136",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0137",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0138",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0139",
+      "loyalty_score": 100,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0140",
+      "loyalty_score": 21,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0141",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0142",
+      "loyalty_score": 91,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0143",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0144",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0145",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0146",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0147",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0148",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0149",
+      "loyalty_score": 100,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0150",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0151",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0152",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0153",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0154",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0155",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0156",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0157",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0158",
+      "loyalty_score": 31,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0159",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0160",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0161",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0162",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0163",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0164",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0165",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0166",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0167",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0168",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0169",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0170",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0171",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0172",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0173",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0174",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0175",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0176",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0177",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0178",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0179",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0180",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0181",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0182",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0183",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0184",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0185",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0186",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0187",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0188",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0189",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0190",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0191",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0192",
+      "loyalty_score": 83,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0193",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0194",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0195",
+      "loyalty_score": 26,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0196",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0197",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0198",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0199",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0200",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0201",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0202",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0203",
+      "loyalty_score": 70,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0204",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0205",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0206",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0207",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0208",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0209",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0210",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0211",
+      "loyalty_score": 83,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0212",
+      "loyalty_score": 100,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0213",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0214",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0215",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0216",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0217",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0218",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0219",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0220",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0221",
+      "loyalty_score": 55,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0222",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0223",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0224",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0225",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0226",
+      "loyalty_score": 91,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0227",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0228",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0229",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0230",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0231",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0232",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0233",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0234",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0235",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0236",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0237",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0238",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0239",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0240",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0241",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0242",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0243",
+      "loyalty_score": 82,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0244",
+      "loyalty_score": 69,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0245",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0246",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0247",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0248",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0249",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0250",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0251",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0252",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0253",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0254",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0255",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0256",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0257",
+      "loyalty_score": 82,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0258",
+      "loyalty_score": 78,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0259",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0260",
+      "loyalty_score": 77,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0261",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0262",
+      "loyalty_score": 91,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0263",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0264",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0265",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0266",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0267",
+      "loyalty_score": 21,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0268",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0269",
+      "loyalty_score": 31,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0270",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0271",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0272",
+      "loyalty_score": 70,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0273",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0274",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0275",
+      "loyalty_score": 33,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0276",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0277",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0278",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0279",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0280",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0281",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0282",
+      "loyalty_score": 31,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0283",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0284",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0285",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0286",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0287",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0288",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0289",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0290",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0291",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0292",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0293",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0294",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0295",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0296",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0297",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0298",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0299",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0300",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0301",
+      "loyalty_score": 26,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0302",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0303",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0304",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0305",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0306",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0307",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0308",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0309",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0310",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0311",
+      "loyalty_score": 58,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0312",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0313",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0314",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0315",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0316",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0317",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0318",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0319",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0320",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0321",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0322",
+      "loyalty_score": 82,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0323",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0324",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0325",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0326",
+      "loyalty_score": 69,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0327",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0328",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0329",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0330",
+      "loyalty_score": 31,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0331",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0332",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0333",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0334",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0335",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0336",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0337",
+      "loyalty_score": 21,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0338",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0339",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0340",
+      "loyalty_score": 26,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0341",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0342",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0343",
+      "loyalty_score": 58,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0344",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0345",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0346",
+      "loyalty_score": 82,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0347",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0348",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0349",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0350",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0351",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0352",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0353",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0354",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0355",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0356",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0357",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0358",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0359",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0360",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0361",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0362",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0363",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0364",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0365",
+      "loyalty_score": 55,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0366",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0367",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0368",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0369",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0370",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0371",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0372",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0373",
+      "loyalty_score": 21,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0374",
+      "loyalty_score": 78,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0375",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0376",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0377",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0378",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0379",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0380",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0381",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0382",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0383",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0384",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0385",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0386",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0387",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0388",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0389",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0390",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0391",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0392",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0393",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0394",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0395",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0396",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0397",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0398",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0399",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0400",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0401",
+      "loyalty_score": 55,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0402",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0403",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0404",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0405",
+      "loyalty_score": 82,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0406",
+      "loyalty_score": 83,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0407",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0408",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0409",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0410",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0411",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0412",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0413",
+      "loyalty_score": 70,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0414",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0415",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0416",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0417",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0418",
+      "loyalty_score": 33,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0419",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0420",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0421",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0422",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0423",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0424",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0425",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0426",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0427",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0428",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0429",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0430",
+      "loyalty_score": 83,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0431",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0432",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0433",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0434",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0435",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0436",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0437",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0438",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0439",
+      "loyalty_score": 58,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0440",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0441",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0442",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0443",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0444",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0445",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0446",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0447",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0448",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0449",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0450",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0451",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0452",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0453",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0454",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0455",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0456",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0457",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0458",
+      "loyalty_score": 77,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0459",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0460",
+      "loyalty_score": 82,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0461",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0462",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0463",
+      "loyalty_score": 54,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0464",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0465",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0466",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0467",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0468",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0469",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0470",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0471",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0472",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0473",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0474",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0475",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0476",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0477",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0478",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0479",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0480",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0481",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0482",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0483",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0484",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0485",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0486",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0487",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0488",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0489",
+      "loyalty_score": 31,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0490",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0491",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0492",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0493",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0494",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0495",
+      "loyalty_score": 78,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0496",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0497",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0498",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0499",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0500",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0501",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0502",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0503",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0504",
+      "loyalty_score": 100,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0505",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0506",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0507",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0508",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0509",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0510",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0511",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0512",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0513",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0514",
+      "loyalty_score": 21,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0515",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0516",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0517",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0518",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0519",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0520",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0521",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0522",
+      "loyalty_score": 34,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0523",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0524",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0525",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0526",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0527",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0528",
+      "loyalty_score": 69,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0529",
+      "loyalty_score": 91,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0530",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0531",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0532",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0533",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0534",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0535",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0536",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0537",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0538",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0539",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0540",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0541",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0542",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0543",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0544",
+      "loyalty_score": 55,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0545",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0546",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0547",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0548",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0549",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0550",
+      "loyalty_score": 86,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0551",
+      "loyalty_score": 86,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0552",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0553",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0554",
+      "loyalty_score": 83,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0555",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0556",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0557",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0558",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0559",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0560",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0561",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0562",
+      "loyalty_score": 31,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0563",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0564",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0565",
+      "loyalty_score": 78,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0566",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0567",
+      "loyalty_score": 100,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0568",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0569",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0570",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0571",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0572",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0573",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0574",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0575",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0576",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0577",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0578",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0579",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0580",
+      "loyalty_score": 78,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0581",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0582",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0583",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0584",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0585",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0586",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0587",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0588",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0589",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0590",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0591",
+      "loyalty_score": 55,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0592",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0593",
+      "loyalty_score": 86,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0594",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0595",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0596",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0597",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0598",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0599",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0600",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0601",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0602",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0603",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0604",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0605",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0606",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0607",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0608",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0609",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0610",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0611",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0612",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0613",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0614",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0615",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0616",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0617",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0618",
+      "loyalty_score": 91,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0619",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0620",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0621",
+      "loyalty_score": 33,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0622",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0623",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0624",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0625",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0626",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0627",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0628",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0629",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0630",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0631",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0632",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0633",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0634",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0635",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0636",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0637",
+      "loyalty_score": 33,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0638",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0639",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0640",
+      "loyalty_score": 34,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0641",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0642",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0643",
+      "loyalty_score": 54,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0644",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0645",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0646",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0647",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0648",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0649",
+      "loyalty_score": 70,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0650",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0651",
+      "loyalty_score": 33,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0652",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0653",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0654",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0655",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0656",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0657",
+      "loyalty_score": 69,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0658",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0659",
+      "loyalty_score": 77,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0660",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0661",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0662",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0663",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0664",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0665",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0666",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0667",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0668",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0669",
+      "loyalty_score": 68,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0670",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0671",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0672",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0673",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0674",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0675",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0676",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0677",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0678",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0679",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0680",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0681",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0682",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0683",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0684",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0685",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0686",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0687",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0688",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0689",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0690",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0691",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0692",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0693",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0694",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0695",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0696",
+      "loyalty_score": 48,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0697",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0698",
+      "loyalty_score": 83,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0699",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0700",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0701",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0702",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0703",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0704",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0705",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0706",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0707",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0708",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0709",
+      "loyalty_score": 58,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0710",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0711",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0712",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0713",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0714",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0715",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0716",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0717",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0718",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0719",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0720",
+      "loyalty_score": 69,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0721",
+      "loyalty_score": 21,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0722",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0723",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0724",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0725",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0726",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0727",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0728",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0729",
+      "loyalty_score": 26,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0730",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0731",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0732",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0733",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0734",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0735",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0736",
+      "loyalty_score": 63,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0737",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0738",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0739",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0740",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0741",
+      "loyalty_score": 70,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0742",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0743",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0744",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0745",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0746",
+      "loyalty_score": 82,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0747",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0748",
+      "loyalty_score": 58,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0749",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0750",
+      "loyalty_score": 83,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0751",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0752",
+      "loyalty_score": 78,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0753",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0754",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0755",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0756",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0757",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0758",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0759",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0760",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0761",
+      "loyalty_score": 21,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0762",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0763",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0764",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0765",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0766",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0767",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0768",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0769",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0770",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0771",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0772",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0773",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0774",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0775",
+      "loyalty_score": 34,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0776",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0777",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0778",
+      "loyalty_score": 91,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0779",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0780",
+      "loyalty_score": 69,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0781",
+      "loyalty_score": 31,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0782",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0783",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0784",
+      "loyalty_score": 33,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0785",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0786",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0787",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0788",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0789",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0790",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0791",
+      "loyalty_score": 55,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0792",
+      "loyalty_score": 70,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0793",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0794",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0795",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0796",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0797",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0798",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0799",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0800",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0801",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0802",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0803",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0804",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0805",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0806",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0807",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0808",
+      "loyalty_score": 54,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0809",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0810",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0811",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0812",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0813",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0814",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0815",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0816",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0817",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0818",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0819",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0820",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0821",
+      "loyalty_score": 70,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0822",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0823",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0824",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0825",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0826",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0827",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0828",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0829",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0830",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0831",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0832",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0833",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0834",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0835",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0836",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0837",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0838",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0839",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0840",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0841",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0842",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0843",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0844",
+      "loyalty_score": 59,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0845",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0846",
+      "loyalty_score": 38,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0847",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0848",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0849",
+      "loyalty_score": 70,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0850",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0851",
+      "loyalty_score": 42,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0852",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0853",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0854",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0855",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0856",
+      "loyalty_score": 98,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0857",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0858",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0859",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0860",
+      "loyalty_score": 77,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0861",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0862",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0863",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0864",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0865",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0866",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0867",
+      "loyalty_score": 75,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0868",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0869",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0870",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0871",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0872",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0873",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0874",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0875",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0876",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0877",
+      "loyalty_score": 46,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0878",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0879",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0880",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0881",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0882",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0883",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0884",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0885",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0886",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0887",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0888",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0889",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0890",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0891",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0892",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0893",
+      "loyalty_score": 51,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0894",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0895",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0896",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0897",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0898",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0899",
+      "loyalty_score": 33,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0900",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0901",
+      "loyalty_score": 100,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0902",
+      "loyalty_score": 34,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0903",
+      "loyalty_score": 36,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0904",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0905",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0906",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0907",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0908",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0909",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0910",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0911",
+      "loyalty_score": 45,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0912",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0913",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0914",
+      "loyalty_score": 100,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0915",
+      "loyalty_score": 58,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0916",
+      "loyalty_score": 35,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0917",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0918",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0919",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0920",
+      "loyalty_score": 91,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0921",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0922",
+      "loyalty_score": 96,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0923",
+      "loyalty_score": 88,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0924",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0925",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0926",
+      "loyalty_score": 25,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0927",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0928",
+      "loyalty_score": 77,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0929",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0930",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0931",
+      "loyalty_score": 41,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0932",
+      "loyalty_score": 79,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0933",
+      "loyalty_score": 22,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0934",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0935",
+      "loyalty_score": 73,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0936",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0937",
+      "loyalty_score": 71,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0938",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0939",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0940",
+      "loyalty_score": 65,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0941",
+      "loyalty_score": 89,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0942",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0943",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0944",
+      "loyalty_score": 49,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0945",
+      "loyalty_score": 84,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0946",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0947",
+      "loyalty_score": 92,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0948",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0949",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0950",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0951",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0952",
+      "loyalty_score": 26,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0953",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0954",
+      "loyalty_score": 23,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0955",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0956",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0957",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0958",
+      "loyalty_score": 97,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0959",
+      "loyalty_score": 94,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0960",
+      "loyalty_score": 27,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0961",
+      "loyalty_score": 80,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0962",
+      "loyalty_score": 32,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0963",
+      "loyalty_score": 76,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0964",
+      "loyalty_score": 20,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0965",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0966",
+      "loyalty_score": 95,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0967",
+      "loyalty_score": 52,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0968",
+      "loyalty_score": 72,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0969",
+      "loyalty_score": 66,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0970",
+      "loyalty_score": 93,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0971",
+      "loyalty_score": 47,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0972",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0973",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0974",
+      "loyalty_score": 85,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0975",
+      "loyalty_score": 28,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0976",
+      "loyalty_score": 74,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0977",
+      "loyalty_score": 81,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0978",
+      "loyalty_score": 67,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0979",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0980",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0981",
+      "loyalty_score": 24,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0982",
+      "loyalty_score": 40,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0983",
+      "loyalty_score": 30,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0984",
+      "loyalty_score": 53,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0985",
+      "loyalty_score": 90,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0986",
+      "loyalty_score": 56,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0987",
+      "loyalty_score": 50,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0988",
+      "loyalty_score": 64,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0989",
+      "loyalty_score": 37,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0990",
+      "loyalty_score": 62,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0991",
+      "loyalty_score": 99,
+      "segment": "Platinum"
+    },
+    {
+      "customer_id": "C0992",
+      "loyalty_score": 39,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0993",
+      "loyalty_score": 44,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0994",
+      "loyalty_score": 60,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0995",
+      "loyalty_score": 61,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C0996",
+      "loyalty_score": 43,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0997",
+      "loyalty_score": 29,
+      "segment": "Bronze"
+    },
+    {
+      "customer_id": "C0998",
+      "loyalty_score": 87,
+      "segment": "Gold"
+    },
+    {
+      "customer_id": "C0999",
+      "loyalty_score": 69,
+      "segment": "Silver"
+    },
+    {
+      "customer_id": "C1000",
+      "loyalty_score": 57,
+      "segment": "Silver"
+    }
+  ]
+}
