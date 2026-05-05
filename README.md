@@ -26,4 +26,13 @@ The solution integrates multiple data sources and processes them using a **Medal
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
+SQL Server / Blob / API
+↓
+Azure Data Factory
+↓
+ADLS (Raw Layer)
+↓
+Databricks (Bronze → Silver → Gold)
+↓
+Power BI Dashboard
