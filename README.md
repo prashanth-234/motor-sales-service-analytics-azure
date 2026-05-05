@@ -23,6 +23,7 @@ The solution integrates multiple data sources and processes them using a **Medal
 | SQL Server | Customer, Vehicle, Dealership |
 | Blob Storage | Sales, Service, Spare Parts |
 | REST API | Customer Loyalty Data |
+| Cosmos DB | Service_Feedback    |
 
 ---
 
